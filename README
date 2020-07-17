@@ -1,0 +1,3 @@
+This code imagines a cpu that runs on brainfuck bytecode. It then virtually implements it in rust.
+
+This is useless.
